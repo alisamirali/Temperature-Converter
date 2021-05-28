@@ -2,4 +2,4 @@
 A Temperature Converter with Java (GUI)
 
 
-![Screenshot (1434)](https://user-images.githubusercontent.com/62913154/120045808-27d24200-c011-11eb-8990-b84e3afa8dad.png)
+![Screenshot (1436)](https://user-images.githubusercontent.com/62913154/120046215-03c33080-c012-11eb-886f-b0a03aa4cc6b.png)
